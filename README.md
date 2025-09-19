@@ -1,0 +1,2 @@
+# kyberpuolustus_eettinen_hakkerointi
+Kyberpuolustukseen ja eettiseen hakkerointiin liittyviä projekteja
